@@ -25,4 +25,4 @@ Core Capabilities
 
 
 TAGS
-vmware, vmware-workstation, vmware-workstation-pro, vmware-2026, virtual-machine, hypervisor, pro-software-2026, trial-software                       
+vmware, vmware-workstation, vmware-workstation-pro, vmware-2026, virtual-machine, hypervisor, pro-software-2026, trial-software                        
